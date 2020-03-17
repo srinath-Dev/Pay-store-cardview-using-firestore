@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477195096833",
+    "firebase_url": "https://gamepouch-9b69f.firebaseio.com",
+    "project_id": "gamepouch-9b69f",
+    "storage_bucket": "gamepouch-9b69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477195096833:android:47b977354cbec42356c100",
+        "android_client_info": {
+          "package_name": "com.aborteddevelopers.game_pouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477195096833-gbrao111rq21jtehdpmobpm6qe0rjjm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aborteddevelopers.game_pouch",
+            "certificate_hash": "2113b78671fb2a943af44709cc014e2192a59553"
+          }
+        },
+        {
+          "client_id": "477195096833-gq1trfkso2ipkki1a7dhegmljuvaipn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0LQ-P5Jpce_FskbHY7zVlEwSPl3_9nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477195096833-gq1trfkso2ipkki1a7dhegmljuvaipn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
